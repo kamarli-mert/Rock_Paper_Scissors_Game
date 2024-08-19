@@ -1,7 +1,7 @@
 Rock, Paper, Scissors Game
 
-This project is a Python implementation of the classic "Rock, Paper, Scissors" game. The game takes a selection from the user and compare
-it to a randomly selected choice made by the computer. The game continues until either the user or the computer wins 3 rounds.
+This project is a Python implementation of the classic "Rock, Paper, Scissors" game. The game takes a selection from the user and 
+compare it to a randomly selected choice made by the computer. The game continues until either the user or the computer wins 3 rounds.
 
 Features
 
